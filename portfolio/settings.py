@@ -25,7 +25,7 @@ SECRET_KEY = 'kv)w-qp!q+6%(2mq*k*+93k5+%n&4*o@0=$y)_5ukab48lwwq!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['kalyanportfolio.herokuapp.com']
+ALLOWED_HOSTS = ['']
 
 
 # Application definition
