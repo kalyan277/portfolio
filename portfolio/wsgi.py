@@ -15,4 +15,4 @@ from whitenoise.django import DjangoWhiteNoise
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "portfolio.settings")
 
 application = get_wsgi_application()
-applicatin = DjangoWhiteNoise(application)
+application = DjangoWhiteNoise(application)
